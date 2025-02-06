@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+NN88 🎖️ Sân Chơi NN88 uy tín số #1 Châu Á 2025
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`NN88 <https://2m4m.org/>`_ là sân chơi đổi thưởng trực tuyến uy tín, được đông đảo người chơi yêu thích với chứng nhận hợp pháp từ Costa Rica và chứng chỉ bảo mật từ GEOTRUST. Hoạt động từ năm 2017, NN88 đã nhanh chóng khẳng định vị thế là một sân chơi đẳng cấp quốc tế, cung cấp đa dạng sản phẩm như thể thao, slot game, casino trực tuyến, xổ số,... 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Điểm nổi bật của NN88 là hệ thống bảo mật tiên tiến SSL 256-bit, đảm bảo an toàn tuyệt đối cho người chơi. Ngoài ra, NN88 còn thu hút thành viên với nhiều ưu đãi hấp dẫn, hỗ trợ khách hàng 24/7 và quy trình nạp/rút tiền nhanh chóng. Với mục tiêu trở thành sân chơi đổi thưởng chất lượng nhất, NN88 cam kết mang đến trải nghiệm giải trí minh bạch, công bằng và chuyên nghiệp.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 227 Đ. Vành Đai Trong, KP 7, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0889333934. 
 
-.. toctree::
+Email: cskh.nn88@gmail.com. 
 
-   usage
-   api
+Website: https://2m4m.org/
+
+#nn88 #nn88com #dangkynn88 #dangnhapnn88 #linknn88 #nn88_2m4m
